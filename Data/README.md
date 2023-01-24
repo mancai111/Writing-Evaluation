@@ -2,4 +2,4 @@
 Original dataset
 
 ### balanced_dataset
-Preprocessed dataset for transformers
+Preprocessed dataset for models
