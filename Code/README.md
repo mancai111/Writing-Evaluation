@@ -1,5 +1,5 @@
-### Data_for_Transformers.py 
-Preprocess data used for Transformers and generate summary
+### Data.py 
+Preprocess data used for models and generate summary column
 
 ### RuleBased_Models.py 
 Rule-based Models
